@@ -1,0 +1,16 @@
+﻿  Main.cpp
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(223): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(220): warning C4101: 'seatChar': unreferenced local variable
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(370): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(421): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(424): warning C4018: '>': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(454): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(492): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(828): warning C4018: '<': signed/unsigned mismatch
+c:\users\cheeto\documents\1 codes\dvc\comsc-165\3.files and arrays\movie theater\movie theater\main.cpp(838): warning C4018: '<': signed/unsigned mismatch
+  Movie Theater.vcxproj -> C:\Users\Cheeto\Documents\1 CODES\DVC\COMSC-165\3.Files and Arrays\Movie Theater\Debug\Movie Theater.exe

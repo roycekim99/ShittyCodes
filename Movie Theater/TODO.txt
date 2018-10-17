@@ -1,0 +1,39 @@
+
+    /**TODO 1: user can set up:
+                Number of rows
+                Number of seats per row
+                Default seat price
+                List of special row prices (1.2)
+                List of blocked seats listed entered in one line
+        **/
+
+        //TODO 3: view number of tickets sold
+        //TODO 3.1: user buys a ticket of a group of tickets
+        //TODO 3.2: ----display total ticket prices
+
+        //TODO 4: keep track of all total ticket sales
+        //TODO 4.1: #seats sold, #available seats in each row, and # of available seats in theater
+
+        //TODO 5.1: x-number of adjacent seats, the program will auto-find the seats
+        //TODO 5.2: ----AT A GIVEN ROW and find a row with the seats (going back)
+
+        //TODO 6: clear all sales
+
+        //TODO 7: exit option. must save at close and load at start
+
+3rd October 2018
+line 266: //TODO: expand/compress theater
+line 324: //TODO: SAVE
+
+4th October 2018
+Must fix compressing/expand
+	replaces last x-amount and compresses to save file's amount
+save function @end of setup
+Must add purchase prices
+
+4th October 2018
+Must save and load prices. setup.txt must include default price and special row prices.
+
+5th October 2018
+add seats available in each row
+add seats available in entire theater
